@@ -1,4 +1,4 @@
-# Online-Food-Ordering-System# <p align = 'center'> FOOD ORDER DELIVERY SYSTEM </p>
+<p align = 'center'> FOOD ORDER DELIVERY SYSTEM </p>
 
 
 ## OBJECTIVES:
